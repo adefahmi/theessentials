@@ -11,10 +11,7 @@
             </div>
           </div>
           <div data-aos="zoom-in" class="col-lg-6">
-              <video width="560" height="315" controls>
-                  <source src="{{url('libs/video/1.mov')}}" type="video/mp4">
-                  Your browser does not support the video tag.
-              </video>
+              <iframe src="https://drive.google.com/file/d/1FyVvLjkxY9RWHA-501VBtuSd2K5hdCAg/preview" width="560" height="315" allow="autoplay"></iframe>
           </div>
         </div>
       </div>
